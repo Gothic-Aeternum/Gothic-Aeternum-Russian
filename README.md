@@ -8,7 +8,7 @@ Space Station 14 это ремейк SS13, который работает на 
 
 ## Ссылки
 
-[Наш Discord](https://discord.station14.ru) | [Наша Вики](https://wiki.station14.ru) | [Steam](https://store.steampowered.com/app/1255460/Space_Station_14/) | [Клиент без Steam](https://spacestation14.io/about/nightlies/) | [Основной репозиторий](https://github.com/space-wizards/space-station-14)
+[Наш Discord](https://discord.gg/jBjMvPUBna)  | [Steam](https://store.steampowered.com/app/1255460/Space_Station_14/)  | [Основной репозиторий](https://github.com/space-wizards/space-station-14)
 
 ## Документация
 
@@ -16,8 +16,7 @@ Space Station 14 это ремейк SS13, который работает на 
 
 ## Контрибьют
 
-Мы рады принять вклад от любого человека. Заходите в Discord, если хотите помочь. У нас есть [список проблем](https://github.com/space-syndicate/space-station-14-content/issues), которые нужно решить, и любой может за них взяться. Не бойтесь просить о помощи!
-Только убедитесь, что ваши изменения и PRы соответствуют [руководству по контрибьюту](https://docs.spacestation14.com/en/general-development/codebase-info/pull-request-guidelines.html).
+Мы рады принять вклад от любого человека. Заходите в Discord, если хотите помочь.
 
 ## Сборка
 
@@ -29,7 +28,7 @@ Space Station 14 это ремейк SS13, который работает на 
 
 ## Лицензия
 
-Весь код репозитория лицензирован под [MIT](https://github.com/space-syndicate/space-station-14/blob/master/LICENSE.TXT).
+Весь код репозитория лицензирован под [MIT], вы можете ознакомиться с ним на странице github
 
 Большинство ассетов лицензированы под [CC-BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/), если не указано иное. Ассеты имеют свою лицензию и авторские права в файле метаданных. [Пример](https://github.com/space-syndicate/space-station-14/blob/master/Resources/Textures/Objects/Tools/crowbar.rsi/meta.json).
 
